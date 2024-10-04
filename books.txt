@@ -1,0 +1,4 @@
+book1, srikanth, comic, 500000.0, 6, True
+sri, sru, hbdjsi, 500.0, 4, True
+kiran, kirru, story, 900.0, 10, True
+kinnu, nunu, nsis, 500.0, 5, True
